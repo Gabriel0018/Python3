@@ -6,7 +6,7 @@ Repositório para agregar códigos do curso online de Python3
 ##
 
 <div>
-  <a href="https://www.cursoemvideo.com/" target="_blank"><img src="https://i2.wp.com/www.vooo.pro/insights/wp-content/uploads/2018/05/Python_logo.png?fit=1200%2C508&ssl=1"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://i2.wp.com/www.vooo.pro/insights/wp-content/uploads/2018/05/Python_logo.png?fit=1200%2C508&ssl=1"></a>
 
   
   
