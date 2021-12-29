@@ -2,6 +2,7 @@
 Repositório para agregar códigos do curso online de Python3
 
 # Mundo 1
+[Tratando dados e fazendo contas](htps://github.com/Gabriel0018/Python3/tree/Tratando-dados-e-realizando-contas)
 
 
 
