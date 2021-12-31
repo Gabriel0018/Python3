@@ -1,7 +1,7 @@
 # Curso de Python 3 
 Repositório para agregar códigos do curso online de Python3
 
-### Mundo 1
+### Fundamentos básicos
 1. [Tratando dados e fazendo contas](https://github.com/Gabriel0018/Python3/tree/Tratando-dados-e-realizando-contas)
 2. [Módulos](https://github.com/Gabriel0018/Python3/tree/M%C3%B3dulos)
 3. [Condições](https://github.com/Gabriel0018/Python3/tree/Condi%C3%A7%C3%B5es)
