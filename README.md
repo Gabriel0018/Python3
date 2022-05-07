@@ -1,5 +1,5 @@
-# Curso de Python 3 
-Repositório para agregar códigos do curso online de Python 3
+<div align="center"><h1>Curso de Python 3</div> 
+  <div align="center">Repositório para agregar códigos do curso online de Python 3</div>
 
 ### Fundamentos e condições compostas
 1. [Tratando dados e fazendo contas](https://github.com/Gabriel0018/Python3/tree/Tratando-dados-e-realizando-contas)
